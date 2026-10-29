@@ -1,0 +1,10 @@
+{
+  "name": "sebskills",
+  "description": "Seb's prompt skills. /sebskills:deepen turns any task into a deeper (not bigger) version: what a top pro would do, the raw material, the methods, and an outside check, then rewrites the prompt and optionally runs it.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": {
+    "name": "Seb Suarez"
+  },
+  "repository": "https://github.com/cbassuarez/skills"
+}

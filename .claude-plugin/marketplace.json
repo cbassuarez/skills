@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "sebskills",
+  "description": "Seb's Claude skills.",
+  "owner": {
+    "name": "Seb Suarez"
+  },
+  "plugins": [
+    {
+      "name": "sebskills",
+      "description": "Prompt skills, starting with /sebskills:deepen: make a task deeper, not bigger.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
